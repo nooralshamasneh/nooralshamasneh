@@ -1,16 +1,28 @@
-## Hi there 👋
+# Noor Alshamasneh
+### Cybersecurity & Software Development
 
-<!--
-**nooralshamasneh/nooralshamasneh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
+###  Professional Focus
+* Specialized in ethical hacking, penetration testing, red teaming, and vulnerability analysis.
+* Experienced in building custom security tools, reconnaissance scripts, and web applications.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+###  Technical Stack
+* **Languages:** Python, Java, JavaScript, HTML, CSS
+* **Security & Analysis:** Kali Linux, Nmap, Metasploit, Shodan, Splunk
+* **Frameworks & Tools:** Flask, Git, GitHub
+
+---
+
+###  Projects
+* **[Web-Recon](https://github.com/nooralshamasneh/Web-Recon):** A Python-based reconnaissance and network scanning tool.
+* **[digital-evidence-vault](https://github.com/nooralshamasneh/digital-evidence-vault):** A web application for secure digital evidence management and documentation.
+
+---
+
+### Connect
+* **LinkedIn:** www.linkedin.com/in/noor-alshamasneh-a24880362
+
+* **Email:** noorshamasneh77@gmail.com
