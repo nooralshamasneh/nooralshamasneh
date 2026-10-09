@@ -1,28 +1,20 @@
 # Noor Alshamasneh
-### Cybersecurity & Software Development
+**Cybersecurity Specialist | Penetration Testing & Security Tooling**
 
----
+I assess application and network security and build the tooling to automate it. My work spans vulnerability analysis, reconnaissance automation, and web application development.
 
-###  Professional Focus
-* Specialized in ethical hacking, penetration testing, red teaming, and vulnerability analysis.
-* Experienced in building custom security tools, reconnaissance scripts, and web applications.
+## Expertise
+- Penetration testing and vulnerability assessment
+- Security tooling and automation (Python)
+- Web application development (Flask)
 
----
+## Technical Stack
+| Area | Tools |
+|---|---|
+| Languages | Python, Java, JavaScript, HTML/CSS |
+| Offensive Security | Kali Linux, Nmap, Metasploit, Shodan |
+| Monitoring & Analysis | Splunk |
+| Development | Flask, Git, GitHub |
 
-###  Technical Stack
-* **Languages:** Python, Java, JavaScript, HTML, CSS
-* **Security & Analysis:** Kali Linux, Nmap, Metasploit, Shodan, Splunk
-* **Frameworks & Tools:** Flask, Git, GitHub
-
----
-
-###  Projects
-* **[Web-Recon](https://github.com/nooralshamasneh/Web-Recon):** A Python-based reconnaissance and network scanning tool.
-* **[digital-evidence-vault](https://github.com/nooralshamasneh/digital-evidence-vault):** A web application for secure digital evidence management and documentation.
-
----
-
-### Connect
-* **LinkedIn:** www.linkedin.com/in/noor-alshamasneh-a24880362
-
-* **Email:** noorshamasneh77@gmail.com
+## Contact
+[LinkedIn](https://www.linkedin.com/in/noor-alshamasneh-a24880362)
